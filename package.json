@@ -1,8 +1,10 @@
 {
 
-    "name": "Simple Google OAuth Login with Mongo",
+    "name": "Alakadarnya",
 
     "version": "1.0.0",
+
+    "description": "Simple Google OAuth Login with Mongo",
 
     "main": "app.js",
 
@@ -13,13 +15,16 @@
 
     },
 
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/arricodyanto/goauth-js.git"
+    },
+
     "keywords": [],
 
-    "author": "",
+    "author": "arricodyanto",
 
-    "license": "ISC",
-
-    "description": "",
+    "license": "MIT",
 
     "dependencies": {
 
