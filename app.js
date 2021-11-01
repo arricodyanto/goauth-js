@@ -1,3 +1,4 @@
+require('dotenv').config()
 require('./auth')
 require('./utils/db')
 
